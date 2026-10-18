@@ -1,0 +1,32 @@
+{
+  "_comment": "Example world file: Pharloom (Hollow Knight: Silksong inspired, dark). Copy, rename, replace every hex. Colors are #RRGGBB or #RRGGBBAA. Keep literal hexes: never derive a role at build time.",
+  "id": "pharloom",
+  "inspiredBy": "Hollow Knight: Silksong (mood and palette only, no assets)",
+  "brightness": "dark",
+  "paper": {
+    "canvas": "#09060C",
+    "ground": "#140B1C",
+    "surface": "#130E17",
+    "raised": "#221828",
+    "seam": "#3A2F3E",
+    "ink": "#050307",
+    "text": "#E6DDCB",
+    "strong": "#F4EBDD",
+    "muted": "#A79BA6",
+    "faint": "#5F5463",
+    "accent": "#E8566D",
+    "accentHi": "#EF6E83",
+    "onAccent": "#09060C",
+    "deep": "#7A2638",
+    "signal": "#E9DFCB"
+  },
+  "glass": {
+    "fill": "#FFFFFF14",
+    "fillHi": "#FFFFFF29",
+    "light": "#FFF8ECD9",
+    "key": "#050307"
+  },
+  "provenance": [
+    { "role": "accent", "source": "own screenshot sample, 2026-10, hand-adjusted", "derived": false }
+  ]
+}
